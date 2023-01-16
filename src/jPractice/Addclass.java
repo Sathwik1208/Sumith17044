@@ -6,6 +6,7 @@ public class Addclass {
 		int a=5,b=6;
 		int c=a+b;
 		//gjnhvjhfvhjfjhfvjhvhjvhvvj
+		//lfnkjbncjbdjhvjdvwhjhvdbwk
 		System.out.println(c);
 
 	}
